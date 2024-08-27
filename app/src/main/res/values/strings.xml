@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Potty Time</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_add">Add</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Add Form Strings -->
+    <string name="select_entry_type">Select Entry Type</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="submit">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="quick_add_entry">Quick Add Entry</string>
+    <string name="settings">Settings</string>
+    <string name="export_data">Export Data</string>
+
+    <!-- Notifications Strings -->
+    <string name="notification_title">Potty Time Reminder</string>
+    <string name="notification_add_dry">Add Dry</string>
+    <string name="notification_add_soiled">Add Soiled</string>
+    <string name="notification_dismiss">Dismiss</string>
+
+    <!-- Other Form Labels or Messages -->
+    <string name="no_data_to_export">No data to export</string>
+    <string name="export_successful">Data exported to %1$s</string>
+    <string name="export_failed">Failed to export data</string>
+    <string name="entry_added">Entry added</string>
+    <string name="select_category_error">Please select a category</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
